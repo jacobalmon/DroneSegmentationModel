@@ -1,0 +1,38 @@
+# Python
+*.pyc
+*.pyo
+*.pyd
+__pycache__/
+
+# Virtual environment
+env/
+venv/
+*.env
+
+# PyTorch / TensorFlow Model Checkpoints
+*.pt
+*.pth
+*.h5
+*.hdf5
+checkpoint/
+
+# Machine Learning library temporary files
+*.tfrecord
+*.pkl
+*.pb
+
+# IDE and editor files
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Operating System files
+.DS_Store
+Thumbs.db
+
+# Outputs from training (such as logs, plots, etc.)
+output/
+
+# Coverage directory from test runs
+.coverage
