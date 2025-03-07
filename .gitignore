@@ -36,3 +36,6 @@ output/
 
 # Coverage directory from test runs
 .coverage
+
+# Folders to Ignore
+data/
