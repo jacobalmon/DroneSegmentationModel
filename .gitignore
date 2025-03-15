@@ -38,4 +38,4 @@ output/
 .coverage
 
 # Folders to Ignore
-data/
+/data/
