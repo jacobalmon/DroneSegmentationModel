@@ -39,3 +39,5 @@ output/
 
 # Folders to Ignore
 /data/
+/advanced_data/
+/checkpoint.txt
