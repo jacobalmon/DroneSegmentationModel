@@ -41,4 +41,4 @@ output/
 /data/
 /advanced_data/
 /checkpoint.txt
-/deeplabsv3/
+/deeplabv3_model/
