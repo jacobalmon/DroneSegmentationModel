@@ -78,11 +78,11 @@ The pipeline was designed to handle **high-resolution drone images**, achieving 
 
 ## 👤 Author  
 **Jacob Almon**  
-- [LinkedIn](https://www.linkedin.com/in/svetyak/)  
+- [LinkedIn](https://www.linkedin.com/in/jacob-almon-93a089261/)  
 - [GitHub](https://github.com/jacobalmon)  
 
 **Svetya Koppisetty**
-- [LinkedIn](https://www.linkedin.com/in/jacob-almon-93a089261/)  
+- [LinkedIn](https://www.linkedin.com/in/svetyak/)  
 - [GitHub](https://github.com/svetya)  
 
 **Connor MacDonald**
